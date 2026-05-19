@@ -2,64 +2,73 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=220&section=header&text=Mounish%20Senisetty&fontSize=58&fontAlignY=36&fontColor=ffffff&desc=AI%20%26%20Data%20Science%20Undergraduate%20%7C%20Software%20Engineer%20%7C%20Researcher&descAlignY=56&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,25:1e3a8a,50:7c3aed,75:06b6d4,100:14b8a6&text=Mounish%20Senisetty&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=AI%20%26%20Data%20Science%20Undergraduate%20%7C%20Software%20Engineer%20%7C%20Researcher&descAlignY=58&descSize=20&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=7DF9FF&center=true&vCenter=true&width=700&lines=🚀+Building+AI-Powered+Software+Systems;🤖+Exploring+LLMs,+RAG,+and+Agentic+AI;⚡+Developing+Scalable+Backend+Applications;📊+Researching+Federated+Learning+%26+Reinforcement+Learning;🌍+Turning+Ideas+into+Impactful+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=7DF9FF&center=true&vCenter=true&width=900&lines=🚀+Building+Scalable+AI-Powered+Software+Systems;🤖+Exploring+LLMs,+RAG,+and+Agentic+AI;⚡+Engineering+High-Performance+Backend+Applications;📊+Researching+Federated+Learning+%26+Reinforcement+Learning;🌍+Transforming+Ideas+into+Real-World+Impact" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MounishSenisetty&color=7c3aed&style=flat-square&label=Profile+Views)](https://github.com/MounishSenisetty)
-[![GitHub followers](https://img.shields.io/github/followers/MounishSenisetty?label=Followers&style=flat-square&color=7c3aed&logo=github&logoColor=white)](https://github.com/MounishSenisetty)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Mounish_Mou/)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MounishSenisetty&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/MounishSenisetty?label=Followers&style=for-the-badge&color=7c3aed&logo=github" />
+  <img src="https://img.shields.io/github/stars/MounishSenisetty?affiliations=OWNER&style=for-the-badge&color=06b6d4&logo=github" />
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🌌 About Me
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Learn+%E2%86%92+Build+%E2%86%92+Research+%E2%86%92+Deploy;Turning+Complex+Ideas+into+Practical+Solutions" />
+</div>
 
 ```yaml
-name       : Mounish Senisetty
-role       : AI & Data Science Undergraduate
-university : Amrita Vishwa Vidyapeetham
-cgpa       : 9.55 / 10.0
-focus      : Software Engineering · AI/ML · LLMs · Distributed Systems
-research   : Federated Learning · Reinforcement Learning · Smart Grids
-mindset    : Learn → Build → Research → Deploy
+name        : Mounish Senisetty
+education   : B.Tech CSE (AI & Data Science)
+university  : Amrita Vishwa Vidyapeetham
+cgpa        : 9.55 / 10.0
+focus       : Software Engineering · AI/ML · Distributed Systems
+research    : Federated Learning · Reinforcement Learning · Smart Grids
+mission     : Build technology that creates measurable impact
 ```
 
-- 🎓 B.Tech in Computer Science (AI & Data Science) at **Amrita Vishwa Vidyapeetham**
-- 💡 Passionate about building scalable software systems and AI-driven applications
-- 🤖 Exploring **Large Language Models (LLMs)**, **RAG pipelines**, and **Agentic AI**
-- ⚙️ Strong foundation in **Data Structures & Algorithms**, **Operating Systems**, and **System Design**
-- 📝 Published research in **IEEE Transactions on Industrial Informatics**
-- 🏆 Top performer in national hackathons and coding competitions
+<table>
+<tr>
+<td width="50%">
+
+- 🎓 AI & Data Science Undergraduate
+- 🤖 Exploring LLMs, RAG, and Agentic AI
+- ⚙️ Strong in DSA, OS, DBMS, and System Design
+- 📚 Published Researcher
+- 🏆 Hackathon Winner and Finalist
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MounishSenisetty&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Universe
 
 <div align="center">
 
-### 💻 Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,js,ts,sql,go)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,go,nodejs,express,fastapi,postgres,mysql,docker,kubernetes,git,linux,pytorch,tensorflow,sklearn&perline=9" />
 
-### ⚙️ Backend & Infrastructure
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,docker,kubernetes,git,linux)](https://skillicons.dev)
+<br/><br/>
 
-### 🤖 AI / Machine Learning
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn)](https://skillicons.dev)
-
-<img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=00d4ff"/>
-<img src="https://img.shields.io/badge/Transformers-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
-<img src="https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logo=elasticsearch&logoColor=00BFB3"/>
-<img src="https://img.shields.io/badge/Federated%20Learning-0d1117?style=for-the-badge&logo=openai&logoColor=7DF9FF"/>
-
-### 📊 Data Engineering & Visualization
-<img src="https://img.shields.io/badge/Apache%20Spark-0d1117?style=for-the-badge&logo=apachespark&logoColor=E25A1C"/>
-<img src="https://img.shields.io/badge/Hadoop-0d1117?style=for-the-badge&logo=apachehadoop&logoColor=66CCFF"/>
-<img src="https://img.shields.io/badge/Power%20BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
-<img src="https://img.shields.io/badge/Tableau-0d1117?style=for-the-badge&logo=tableau&logoColor=E97627"/>
+<img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logo=chainlink&logoColor=00d4ff"/>
+<img src="https://img.shields.io/badge/Transformers-111827?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&logo=elasticsearch&logoColor=00BFB3"/>
+<img src="https://img.shields.io/badge/Federated%20Learning-111827?style=for-the-badge&logo=openai&logoColor=7DF9FF"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-111827?style=for-the-badge&logo=apachespark&logoColor=E25A1C"/>
+<img src="https://img.shields.io/badge/Hadoop-111827?style=for-the-badge&logo=apachehadoop&logoColor=66CCFF"/>
 
 </div>
 
@@ -67,83 +76,108 @@ mindset    : Learn → Build → Research → Deploy
 
 ## 🚀 Featured Projects
 
-### 🤖 AI-Powered SQL Agent
-**Tech Stack:** Python, LangChain, FastAPI, PostgreSQL
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7c3aed,100:06b6d4" width="100%"/>
+</div>
 
-- Developed an LLM-powered SQL agent that converts natural language queries into optimized SQL statements.
-- Implemented schema-aware retrieval and query validation to improve execution reliability.
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI-Powered SQL Agent
+**Python · LangChain · FastAPI · PostgreSQL**
+
+- Natural language to SQL conversion
+- Schema-aware query generation
+- Execution validation and safeguards
+
+</td>
+<td width="50%">
 
 ### 💼 Job Application Management System
-**Tech Stack:** Node.js, Express.js, PostgreSQL, REST APIs
+**Node.js · Express.js · PostgreSQL**
 
-- Developed a backend platform for managing users, job postings, and applications.
-- Designed JWT authentication and role-based access control.
+- JWT Authentication
+- Role-Based Access Control
+- Optimized relational schema
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 📊 Web Log Analytics System
-**Tech Stack:** Apache Spark, Hadoop, Spark MLlib
+**Spark · Hadoop · MLlib**
 
-- Built a distributed big-data pipeline for large-scale log analysis and anomaly detection.
+- Distributed log processing
+- Anomaly detection
+- REST-based insights
+
+</td>
+<td width="50%">
+
+### 🧪 Virtual Lab Development
+**Biomedical Instrumentation**
+
+- Real-time signal visualization
+- Interactive simulations
+- Remote accessibility
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📚 Research Publications
 
-### 📄 RL-Guided Federated Learning for IIoT Microgrids
-- Published in **IEEE Transactions on Industrial Informatics**
-- Developed a PPO-based federated learning framework for dynamic client selection and aggregation.
-
-### 📄 Hybrid AI Framework for Smart Grid Energy Management
-- Published in **Journal of Computational and Applied Mathematics**
-- Combined LLMs, LSTMs, and reinforcement learning for real-time smart grid optimization.
-
----
-
-## 💼 Internship Experience
-
-### 🧪 Virtual Lab Development – Biomedical Instrumentation
-**Amrita Mind Brain Center | Jan 2026 – Apr 2026**
-
-- Developed virtual biomedical lab simulations.
-- Implemented real-time signal visualization and backend logic.
-
----
-
-## 🏆 Achievements
-
-- 🥇 Amazon ML Challenge – Top 1.5% among 83,000+ participants
-- 🥉 ACM EpochOn Hackathon – 3rd Prize Winner
-- 🚀 Meta Scalar Open Environment Hackathon – National Finalist
-- 🤖 OLABS National Hackathon – Finalist
-
----
-
-## 🤝 Leadership & Community
-
-### Student Social Responsibility (SSR)
-- Mentored students and conducted career guidance sessions.
-- Participated in community outreach initiatives.
-
----
-
-## 📈 GitHub Analytics
-
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=MounishSenisetty&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=7DF9FF&text_color=c9d1d9&icon_color=c084fc"/>
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MounishSenisetty&layout=compact&hide_border=true&bg_color=0d1117&title_color=7DF9FF&text_color=c9d1d9&langs_count=8"/>
-
-<img src="https://streak-stats.demolab.com/?user=MounishSenisetty&hide_border=true&background=0d1117&ring=7c3aed&fire=7DF9FF&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=7DF9FF&sideLabels=c084fc&dates=6e7681"/>
+| 📄 Publication | 🏛️ Venue | 🎯 Contribution |
+|---------------|----------|----------------|
+| RL-Guided Federated Learning for IIoT Microgrids | IEEE TII | PPO-based dynamic client selection |
+| Hybrid AI Framework for Smart Grid Energy Management | Journal of Computational and Applied Mathematics | LLM + LSTM + RL integration |
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MounishSenisetty&bg_color=0d1117&color=7DF9FF&line=7c3aed&point=c084fc&area=true&area_color=7c3aed&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MounishSenisetty&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=15&margin-h=15" />
+
+</div>
+
+- 🥇 Amazon ML Challenge — Top 1.5% among 83,000+ participants
+- 🥉 ACM EpochOn Hackathon — 3rd Prize Winner
+- 🚀 Meta Scalar Open Environment Hackathon — National Finalist
+- 🤖 OLABS National Hackathon — Finalist
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MounishSenisetty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MounishSenisetty&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+
+<br/>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=MounishSenisetty&theme=tokyonight&hide_border=true&background=00000000" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MounishSenisetty&bg_color=0d1117&color=7DF9FF&line=7c3aed&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
@@ -152,13 +186,26 @@ mindset    : Learn → Build → Research → Deploy
 ## 🔬 Currently Exploring
 
 ```text
-> Large Language Models (LLMs)
-> Retrieval-Augmented Generation (RAG)
-> Agentic AI Systems
-> Reinforcement Learning
-> Federated Learning
-> Distributed Systems Design
-> System Design for Scalable Applications
+┌──────────────────────────────────────────────────────────────┐
+│  Large Language Models (LLMs)      ████████████████  95%     │
+│  Retrieval-Augmented Generation    ███████████████░  92%     │
+│  Agentic AI Systems                ██████████████░░  88%     │
+│  Reinforcement Learning            █████████████░░░  85%     │
+│  Federated Learning                ████████████░░░░  82%     │
+│  Distributed Systems               █████████████░░░  84%     │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🤝 Leadership & Community
+
+```mermaid
+graph LR
+    A[Student Social Responsibility]
+    A --> B[Career Guidance]
+    A --> C[Student Mentorship]
+    A --> D[Community Outreach]
 ```
 
 ---
@@ -167,10 +214,10 @@ mindset    : Learn → Build → Research → Deploy
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:senisettymounish@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/mounish-senisetty-257383286)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/MounishSenisetty)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Mounish_Mou/)
+[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:senisettymounish@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/mounish-senisetty-257383286)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/MounishSenisetty)
+[![LeetCode](https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Mounish_Mou/)
 
 </div>
 
@@ -178,8 +225,12 @@ mindset    : Learn → Build → Research → Deploy
 
 <div align="center">
 
-*"The best way to understand technology is to build systems that solve real-world problems."*
+### ✨ Philosophy
+
+> **"The best way to understand technology is to build systems that solve real-world problems."**
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:14b8a6,25:06b6d4,50:7c3aed,75:1e3a8a,100:0f172a"/>
