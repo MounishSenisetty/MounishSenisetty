@@ -1,12 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,25:1e3a8a,50:7c3aed,75:06b6d4,100:14b8a6&text=Mounish%20Senisetty&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=AI%20%26%20Data%20Science%20Undergraduate%20%7C%20Software%20Engineer%20%7C%20Researcher&descAlignY=58&descSize=20&animation=fadeIn" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=7DF9FF&center=true&vCenter=true&width=900&lines=Building+Scalable+AI-Powered+Software+Systems;Exploring+LLMs,+RAG,+and+Agentic+AI;Engineering+High-Performance+Backend+Applications;Researching+Federated+Learning+and+Reinforcement+Learning;Transforming+Ideas+into+Real-World+Impact"
+  alt="Typing SVG"
+/>
+<br/>
+<!-- Replace the two top images with the versions below -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30,2&text=Mounish%20Senisetty&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=AI%20%26%20Data%20Science%20Undergraduate%20%7C%20Software%20Engineer%20%7C%20Researcher&descAlignY=58&descSize=20&animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=7DF9FF&center=true&vCenter=true&width=900&lines=🚀+Building+Scalable+AI-Powered+Software+Systems;🤖+Exploring+LLMs%2C+RAG%2C+and+Agentic+AI;⚡+Engineering+High-Performance+Backend+Applications;📊+Researching+Federated+Learning+%26+Reinforcement+Learning;🌍+Transforming+Ideas+into+Real-World+Impact" />
 
-<br/>
 
 <img src="https://komarev.com/ghpvc/?username=MounishSenisetty&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/MounishSenisetty?label=Followers&style=for-the-badge&color=7c3aed&logo=github" />
