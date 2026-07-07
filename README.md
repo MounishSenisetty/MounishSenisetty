@@ -29,7 +29,7 @@
 name        : Mounish Senisetty
 education   : B.Tech in Computer Science (AI & Data Science)
 university  : Amrita Vishwa Vidyapeetham
-cgpa        : 9.55 / 10.0
+cgpa        : 9.52 / 10.0
 focus       : Software Engineering · AI/ML · Distributed Systems
 research    : Federated Learning · Reinforcement Learning · Smart Grids
 mission     : Build technology that creates measurable impact
