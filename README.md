@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=MounishSenisetty&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/MounishSenisetty?label=Followers&style=for-the-badge&color=7c3aed&logo=github" alt="Followers" />
 <img src="https://img.shields.io/github/stars/MounishSenisetty?affiliations=OWNER&style=for-the-badge&color=06b6d4&logo=github" alt="Stars" />
-<img src="https://img.shields.io/badge/CGPA-9.55%2F10-blueviolet?style=for-the-badge" alt="CGPA" />
+<img src="https://img.shields.io/badge/CGPA-9.5%2F10-blueviolet?style=for-the-badge" alt="CGPA" />
 
 </div>
 
@@ -19,7 +19,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Learn+→+Build+→+Research+→+Deploy;Turning+Complex+Ideas+into+Practical+Solutions" alt="About Me Animation" />
 
 </div>
 
@@ -227,7 +226,7 @@ graph LR
 
 ### ✨ Philosophy
 
-> **"The best way to understand technology is to build systems that solve real-world problems."**
+> **"To understand is to observe without conclusions."**
 
 <br/>
 
