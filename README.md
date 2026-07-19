@@ -157,10 +157,6 @@ mission     : Build technology that creates measurable impact
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MounishSenisetty&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7c3aed&text_color=94a3b8" alt="GitHub Stats" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MounishSenisetty&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7DF9FF&text_color=94a3b8" alt="Top Languages" />
-
 <br/><br/>
 
 <img width="98%" src="https://streak-stats.demolab.com?user=MounishSenisetty&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=06b6d4&fire=14b8a6&currStreakLabel=7DF9FF&sideLabels=94a3b8&dates=475569" alt="GitHub Streak" />
